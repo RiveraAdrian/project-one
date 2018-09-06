@@ -7,7 +7,15 @@ work in the automotive industry.
 
 I hope to one day be a software engineer in the
 automotive industry. At first I didn't like coding,
-but that was primarily due to the lack of practicing.
+but that was primarily due to the lack of practice.
 After putting in the work, I was able to become the
 web-developer for my robotics team and was also able
 to land an internship as an embedded software engineer.
+
+My hopes for this class are to improve my skills as a
+beginner web-developer. I have taught myself the
+HTML and CSS. I feel this class will tailor my skills
+and show me how things are properly done in the industry
+as a web-developer. Web developing is one of the career
+paths that  I am looking to pursue with my degree, and
+I hope to learn a lot from this course.
