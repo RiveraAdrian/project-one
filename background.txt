@@ -1,3 +1,13 @@
 I am a student at the Illinois Institute of Technology
 majoring in Computer Engineering and this is my fourth
-at the institution.
+at the institution. I was born and semi-raised in the
+city of Chicago. My first job was at a car-wash at the
+age of 13 and it was then when I knew that I wanted to
+work in the automotive industry.
+
+I hope to one day be a software engineer in the
+automotive industry. At first I didn't like coding,
+but that was primarily due to the lack of practicing.
+After putting in the work, I was able to become the
+web-developer for my robotics team and was also able
+to land an internship as an embedded software engineer.
