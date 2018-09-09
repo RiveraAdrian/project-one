@@ -5,6 +5,11 @@ h1{
   font-family: Georgia;
   text-align: center;
 }
+h2{
+  font-family: Georgia;
+  text-align: center;
+  color:#000099;
+}
 p.blocktext{
   font-family:courier;
   font-size: 18px;
