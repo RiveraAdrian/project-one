@@ -1,15 +1,13 @@
+html{
+  font-family: Helvetica, Arial, sans-serif;
+}
 body {
 background-color: #000000;
 }
-h1{
-  font-family: Georgia;
+h1,h2{
+  font-family: Helvetica,Georgia, serif;
   text-align: center;
   color: #ffffff;
-}
-h2{
-  font-family: Georgia;
-  text-align: center;
-  color:#00cc99;
 }
 p{
   font-family:sans-serif;
@@ -18,10 +16,5 @@ p{
   padding: 5px;
   background-color: #00cc99;
   border-radius:15px;
-/*
-  margin-left: auto;
-  margin-right: auto;
-  width: 25em
-*/
-
+  line-height: 1.5
 }
